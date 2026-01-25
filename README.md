@@ -1,3 +1,7 @@
+## 🔗 Live Dashboard
+👉 [Click here to view the live Power BI dashboard](https://app.powerbi.com/links/IJT9CoHnQh?ctid=27a6e851-557c-485d-b511-e9edec4124ca&pbi_source=linkShare)
+
+
 # Student Performance Record
 
 ## Overview
