@@ -11,8 +11,8 @@ to identify trends, strengths, and areas for improvement.
 🎥 Video Demonstration
 Since the live dashboard link is restricted by organization policy, please view the video below to see the interactive features, including dynamic filtering and rank tracking:
 
-[## 📺 Dashboard Demo
-https://github.com/asthakumari1117-hub/Student-Performance-Record/blob/main/20260127-0849-29.4144947.mp4]
+## 📺 Dashboard Demonstration
+![Student Performance Dashboard](student performance.mp4)
 
 ## Tools & Technologies
 - Power BI
