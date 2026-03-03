@@ -1,6 +1,10 @@
 ## 🔗 Live Dashboard
 👉 [Click here to view the live Power BI dashboard](https://app.powerbi.com/links/IJT9CoHnQh?ctid=27a6e851-557c-485d-b511-e9edec4124ca&pbi_source=linkShare)
 
+## 📸 Dashboard Preview
+
+![Student Dashboard](dashboard.png)
+
 🎥 Video Demonstration
 Since the live dashboard link is restricted by organization policy, please view the video below to see the interactive features, including dynamic filtering and rank tracking:
 
